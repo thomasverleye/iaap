@@ -1,1 +1,2 @@
 # CPACC
+CPACC is short for _Certified Professional in Accessibility Core Competencies_, a certificate provided by _International Association of Accessibility Professionals_ ([IAAP](https://www.accessibilityassociation.org/s/)).
