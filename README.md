@@ -6,3 +6,4 @@ In this repository I'll document my progress into studying for my CPACC exam. I 
 ## TOC
 1. [About CPACC Certification](1-about-cpacc-certification.md)
 2. [Basic Disability Concepts](2-basic-disability-concepts.md)
+3. [Theoretical Models of Disability](3-theoretical-models-of-disability.md)

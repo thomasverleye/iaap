@@ -81,3 +81,31 @@ Deaf people for instance have a whole language on their own, because hearing peo
 The social identity model doesn't always serve as a useful basis for technical definitions of disability. 
 
 It can be also isolating from society if you identify yourself with only a small group of other people.
+
+## Charity or Tragedy Model
+This model sets people with disabilities as unfortunate and tragic. People without disabilities take pity and setup fundraisers etc to improve the condition of the people with disabilities.
+
+It is received as offensive, as the attitude and the assumptions are a form of unequal power balance between the the people with and without disabilities.
+
+### Strengths of the Charity Model
+This model can create a sense of empathy in those without disabilities and inspire them to genuinely assist people with disabilities.
+
+### Weakness of the Charity Model
+As previously mentioned, the charity or tragedy model encourages unequal social and political relationships between people, which can actually slow down progress for people with disabilities as a whole.
+
+## Other Models
+
+### Affirmation Model
+Similar to Social & Cultural model is that people are encourage to affirm their identity being disabled and feel comfortable in their skin.
+
+### Sociopolitical Model
+The sociopolitical model is more of an activist model that emphasizes the need for human rights for people with disabilities.
+
+### Religious/Moral Model
+One interpretation of the religious/moral model assumes that disabilities are given to people as a punishment for actions of either the individual herself or of her parents or others who have brought this condition upon her.
+
+### Expert or Professional Model
+The expert or professional model is a variation of the medical model, in which disabilities are meant to be treated and managed by people with expertise and credentials.
+
+### Rehabilitation Model
+The rehabilitation model is also a variation of the medical model, with an emphasis on therapy or rehabilitation for the person with a disability to improve the person's ability to function and compensate for the disability.
