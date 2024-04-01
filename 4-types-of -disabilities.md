@@ -15,6 +15,8 @@
 ### Description
 Blindness is generally characterized as sightlessness or a loss of vision. While the term “blindness” is often used to define a total loss of vision, it may also refer to partial blindness, where sight may be extremely limited.
 
+They use screenreaders to use software, read content and browse the web.
+
 ### Challenges & Solutions for people with Blindness
 
 #### `[ICT]` Cannot see digital or electronic interfaces
@@ -54,3 +56,26 @@ Blindness is generally characterized as sightlessness or a loss of vision. While
 #### `[CONSUMER]` Cannot read print
 - Optical character recognition software can convert scanned images of text into digital text readable by screen readers.
 - Information can be placed online or in other digital formats to be read using their own assistive technologies.
+
+## Low Vision
+People with low vision can see, but their vision is still quite far from perfect even with powerful corrective lenses. Those who have low vision may be unable to see well enough to drive or read most printed text unless they enlarge it. Low vision isn't a single condition.
+
+As they have different conditions they will also use different assitive technologies to use digital devices:
+- Screen magnification (to enlarge small text);
+- Screen readers (helpfull for them to hear the text as well);
+- Color Customization (for better contrast or to avoid bright white light)
+
+### Challenges & Solutions for people with Low Vision
+
+#### `[GENERAL]` Small text can be hard to read
+- Screen magnifiers can enlarge the items on the screen to make them easier to read.
+- Utilities to enhance contrast, change colors, or alter other aspects of visual appearance can improve legibility.
+- Screen readers can supplement screen magnifiers by reading interfaces and content out loud to users through synthesized speech.
+- Self-voicing interfaces (eg ATMs) and applications can communicate to users without the need for a screen reader.
+- Alternative large print versions of small print text can make printed materials easier to read.
+- Alternative digital versions of printed materials can give users the ability to read the materials using their own assistive technologies.
+
+#### `[GENERAL]` Low contrast text can be hard to read
+- Software or hardware options can enhance the contrast of digital text.
+- Interface designers and content creators can choose color combinations with high enough contrast to easily read.
+
