@@ -101,14 +101,42 @@ There are several types of color blindness and it's a spectrum in how they may v
 ## Deafblindness
 
 ### Description
-For a description see Blindness and `<insert other disability description>`.
+For a descriptions of both disabilities see [Blindness](#blindness) and [Auditory Disabilities](#auditory-disabilities).
 
 Their only option in assitive technologies is **braille**. They mainly going to use the refreshable braille display in combination with a screen reader.
 
-### Challenges & Solutions for people with color blindness
+### Challenges & Solutions for people with deafblindness
 
 #### `[ICT]` Digital text cannot be seen
 - A screen reader can convert text to braille on a refreshable braille device, or "printed" in a braille embosser.
 
 #### `[ICT]` Audio & Video cannot be heard nor seen
 - A text transcript of the audio can be converted to refreshable braille by a screen reader, or "printed" in a braille embosser.
+
+## Auditory Disabilities
+There are several types of Auditory Disabilities:
+- Hearing impairment;
+- Hearing loss;
+- Deafness;
+
+Hearing impairment or hearing loss have diminished hearing and may have difficulty understanding speech and distinguishing foreground noise from background noise.  
+Some of them depend on **hearing aid or lip reading**.
+
+For people with total loss they depend on **sign language or communication board**.
+
+Causes of this disabilities varies, it may include genetics, premature birth, infections/illnesses, ear trauma, exposure to loud noises, aging, ...
+
+deaf and Deaf (see capitalization) mean different things. Deaf with a capital refers to the Deaf community & culture. Deafness is not viewed as a loss by those in the Deaf community.
+
+### Challenges & Solutions for people with Auditroy disabilities
+
+#### `[ICT]` The audio or audio portion of videos cannot be heard
+- Provide synchronized captions with videos
+- Provide sign language interpretation
+
+#### `[GENERAL]` Speeches and talks cannot be heard by deaf people in the room
+- Provide sign language interpretation
+- Provide live captions on a monitor during the speech
+
+#### `[ARCHITECTURE]` Doorbells, alarms, and other sounds may not be heard
+- Provide alternative visual alerts, such as lights that flash, pulse, dim, turn on, or turn off.
