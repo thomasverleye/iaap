@@ -140,3 +140,42 @@ deaf and Deaf (see capitalization) mean different things. Deaf with a capital re
 
 #### `[ARCHITECTURE]` Doorbells, alarms, and other sounds may not be heard
 - Provide alternative visual alerts, such as lights that flash, pulse, dim, turn on, or turn off.
+
+## Mobility, Flexibility, and Body Structure Disabilities
+
+### Description
+Mobility disabilities affect a person’s ability to move independently and purposely.
+
+Some examples are people who have missing limbs, multiple sclerosis, cerebral palsy, stroke, partial or complete paralysis, or arthritis may experience limitations with moving their body or parts of their body.
+
+Causes for these disabilities may vary, they can be present from birth, occur due to aging, or be the result of a disease. And they can be temporary, permanent or periodically recur or relapse.
+
+The **abilities and characteritics may vary** because this is a broad category.
+
+### Challenges & Solutions for people with Mobility, Flexibility, and Body Structure Disabilities
+
+#### `[ICT]` May be unable to use a mouse due to difficulty or inability to use hands
+- Alternative Hardware (keyboard, stick, ...) or Software (speech recognition, eye tracking, ...) enable users to use a computer without the need for a mouse.
+- Developers and designers can ensure digital content is accessible using keyboard devices.
+
+#### `[ICT]` May need more time to interact with digital content and interfaces due to slower movements.
+- Interface designers and developers can alert users to session timeouts and provide users with a way to adjust the time, extend the time or turn off the time limit.
+
+#### `[ARCHITECTURE]` Wheelchair users are unable to use steps.
+- For building entrances, accessible ramps in addition to steps should be provided, and accessible parking should be provided.
+- For steps within buildings, ensure that ramps and elevators are provided and accessible.
+- Ensure that accessible routes outside and within the building are labeled and clearly identifiable.
+
+#### `[ARCHITECTURE]` Wheelchairs users may be unable to navigate through tight spaces.
+- Doors, hallways, rooms, and restrooms should be wide enough for everyone, including wheelchair users, to use.
+- All corridors and routes should be unobstructed.
+
+#### `[ARCHITECTURE]` May have difficulty using hands or arms to open doors.
+- Provide automatic doors or doors than can be opened using a large button.
+- Equip doors with lever-type handles/doorknobs for easier opening or closing.
+
+#### `[ARCHITECTURE]` May encounter seating that is too small or at the wrong height.
+- Ensure that seating can accommodate a variety of body sizes.
+
+#### `[CONSUMER]` May be unable to turn pages of printed materials.
+- Consider providing printed materials in a digital format that may allow people to use their own assistive technologies;
