@@ -240,4 +240,21 @@ People with dyslexia might have high functioning cognitivity at a conceptual lev
 #### `[ICT]` May have a hard time spelling words correctly
 - Can use a spelling and grammar checker.
 
+## Math Disabilities
+Some people experience math anxiety, which is psychological related.  
+Other people truly cannot solve mathematical problems.
 
+### Challenges & Solutions for people with Math Disabilities
+
+#### `[ICT]` Inability to distinguish right from left in graphic images.
+- Can read data in a data table or text description as an alternative to graphic representations of data when an alternative is provided.
+- May be granted additional time to complete tasks.
+
+#### `[ICT]` Inability to copy graphs, figures and diagrams.
+- Use speech-to-text to verbalize instructions and text-to-speech assistive technology can access content.
+- May be granted additional time to complete tasks.
+
+#### `[ICT]` Inability to copy graphs, figures and diagrams.
+- Can use an accessibility accommodation link to a reference sheet with common equations when provided.
+- Can use an onscreen calculator as an accommodation.
+- May be granted additional time to complete tasks.
