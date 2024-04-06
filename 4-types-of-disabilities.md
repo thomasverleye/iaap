@@ -79,3 +79,21 @@ As they have different conditions they will also use different assitive technolo
 - Software or hardware options can enhance the contrast of digital text.
 - Interface designers and content creators can choose color combinations with high enough contrast to easily read.
 
+## Color Blindness
+Color-blindness does not literally mean that a person can't see any color at all (except in very rare cases). Color-blindness refers to the inability to distinguish between certain kinds of colors, especially colors that are of equal brightness or luminosity, even if the colors themselves appear quite different to people without color-blindness.
+
+Common solution for people with color blindness: **do not use ONLY color for information**.
+
+### Types of Color Blindness
+There are several types of color blindness and it's a spectrum in how they may vary so it's quite hard to sum up which are the worst.
+
+- **red-green color-blindness** (Common sub types: Deuteranopia and Protanopia);
+- **blue-yellow color-blindness** (Rare sub type: Tritanopia);
+- **grayscale color-blindness** (Very rare sub type: Achromatopsia);
+- **red-Black color-blindness** (no name or subtype)
+
+### Challenges & Solutions for people with color blindness
+
+#### `[GENERAL]` Certain color combinations can be difficult to distinguish
+- Materials can be designed in a way that does not depend on color as a way to convey information.
+
