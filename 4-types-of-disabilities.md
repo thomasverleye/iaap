@@ -299,3 +299,76 @@ AAC = Augmentative and Alternative Communication. Basically alternative ways to 
 - May use low tech AAC such as communication boards or gestures to supplement speech
 - May use high tech AAC such computer-generated voices to replace speech
 - Be patient and give people time to communicate thoughts; Ask for clarification, if necessary
+
+## Seizure disorders
+
+### description
+Seizures are abnormal or erratic electrical impulses in the brain that interfere with a person's ability to process information or, in some cases, control voluntary muscle movement.
+
+They can be triggered through various impulses, in digital accesibility we'll focus on flashing lights. Putting flashing or strobe-type effects in videos, graphics, or animations can put some viewers at risk for seizures. Seizures caused by flashing lights are sometimes known as **photo-epileptic seizures**.
+
+It's important to note that not all seizure disorders are happening because of flashing lights.
+
+### Challenges & Solutions for people with seizure disorders
+
+#### `[ICT & GENERAL]` Sensitivity to flashing lights, blinking, and flickering stimuli
+- Avoid creating animations, videos, and other graphics, that have flashing or strobe-like effects whenever possible.
+- If flashing content must be used, flashing should not occur more than 3 times per second.
+- Tools that may be helpful are flicker-free monitors, monitor glare guards, and non-glare glasses.
+
+## Psychological/Psychiatric Disabilities
+
+### Description
+Psychological, or psychiatric disabilities, encompass a vast range of emotional and mental conditions. These conditions are first diagnosed as **"mental illness"**. When the mental illness disorder **impacts daily major life** activities, it then becomes a **disability**.
+
+Causes vary, they may be from birth, genetical, trauma, chemical imbalance or social factors.  
+The types of psychological disabilities we will discuss in the section are: anxiety disorders, mood disorders, schizophrenia, and some other disorders.
+
+### Anxiety Disorders
+People with anxiety disorders persistently fear or worry about certain situations or objects.
+- **Panic Disorder** is anxiety disorder that causes feelings of terror and impending doom.
+- **Phobias** are strong, excessive, paralyzing fears of particular objects or situations. (eg. claustrophobia)
+- **Post-Traumatic Stress Disorder, or PTSD**, is an anxiety disorder that may occur after a person has been exposed to a terrifying or traumatic event.
+- **Obsessive-Compulsive Disorder** is an anxiety disorder where a person has perpetually upsetting, distressing thoughts called obsessions.
+
+### Mood disorders
+Also known as affective disorders or depressive disorders, cause erratic changes in a person's mood. 
+- **Depression** is characterized as a brain disorder. People who have depression may experience prolonged sadness, loss of interest in previously enjoyable activities, worthless feelings, or suicidal thoughts.
+- **Bipolar Disorder** is a mood disorder that consists of cycling periods of feeling mania, or highs and happy feelings; and depression, or low, sad feelings.
+- **Seasonal Affective Disorder**, or SAD, is a mood disorder that affects individuals during the fall and winter months. During these months, people with SAD experience depression possibly due to shortened daylight. Depression tends to lift during the spring and summer months.
+
+### Schizophrenia 
+This is an extremely complex disorder. The causes of schizophrenia are unknown, but theories suggest that genetics and biology may be factors. Experiences with this disorder are generally categorized into two groups: "positive" and "negative."
+- **Positive** hallucinations and hearing things;
+- **Negative** lack of motivation, a dreary mood, and isolating oneself from society.
+
+### Attention Deficit Hyperactivity Disorder (ADHD)
+This is a behavioral disorder where a person has difficulty focusing, paying attention, and controlling his or her behavior. The person may also be hyperactive.  
+Experiences with ADHD are divided into three subcategories: inattention, hyperactivity, and impulsivity.
+- **Inattention** — difficult focussing and processing new info;
+- **Hyperactivity** - restlessness and continuously talking
+- **Impulsivity** - difficult controlling emotions, interupt conversations, activities, or conversations.
+
+### Personality Disorders
+- **Antisocial Personality Disorder** is a personality disorder where a person exhibits a pattern of behavior that shows no regard for the rights of others and violates the rights of others. 
+- **Borderline Personality Disorder** is a personality disorder where a person experiences long-term instability in mood, behaviors, relationships and self-image. 
+
+### Eating Disorders
+- **Anorexia nervosa** is an eating disorder that causes a person to eat very little food and keep weight an at unhealthy low.
+- **Bulimia nervosa** is an eating disorder where a person eats a lot of food and then purges the food.
+- **Compulsive, or binge, eating** is an eating disorder characterized by eating a much larger amount of food in a shorter period of time than the amount that would normally be eaten.
+
+### Challenges & Solutions for people with Psychological/Psychiatric Disabilities
+
+#### `[ICT & GENERAL]` Challenges with managing emotions or stress
+- Apps to manage mood, stress, and anxiety
+- Guided meditation
+
+#### `[GENERAL]` Challenges displaying appropriate behavior
+- Behavior chart
+- Point sheets
+- Goal tracking
+- Positive reinforcement and rewards
+
+## Multiple/Compound Disabilities
+Combo of other disabilities.
