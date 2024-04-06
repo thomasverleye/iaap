@@ -241,6 +241,8 @@ People with dyslexia might have high functioning cognitivity at a conceptual lev
 - Can use a spelling and grammar checker.
 
 ## Math Disabilities
+
+### Description
 Some people experience math anxiety, which is psychological related.  
 Other people truly cannot solve mathematical problems.
 
@@ -258,3 +260,42 @@ Other people truly cannot solve mathematical problems.
 - Can use an accessibility accommodation link to a reference sheet with common equations when provided.
 - Can use an onscreen calculator as an accommodation.
 - May be granted additional time to complete tasks.
+
+## Speech Disabilities
+
+### Description
+Speech disabilities are characterized by the inability to produce or organize speech sounds and syllables correctly or with fluency.  
+
+Some speech disabilities may be genetic, while other causes of speech disability may include learning disabilities, auditory disabilities, Autism spectrum disorder, traumatic brain injury, stroke, and cancer (oral or laryngeal).
+
+### Types of Speech Disabilities
+- **Stuttering** is a speech disability that affects the fluency of speech sounds. 
+- **Cluttering** consists of rapid speech that may be inconsistent in rhythm and lack syntax, or grammar.
+- **Apraxia** is a motor speech disability that occurs when a person has difficulty using muscles for speech production to form sounds of words.
+- **Dysarthria** is a motor speech disability that occurs due to brain damage. The muscles for speech production are impaired causing slurring speech or hoarse sounding.
+- **Speech sound disorders** are disorders where certain sounds of speech may be difficult to produce, specifically consonant sounds. Two main categories: *Articulation disorders* and *Phonemic disorders*.
+- **Muteness (mutism)** is the complete inability to produce a speaking voice.
+
+### Communication Options
+AAC = Augmentative and Alternative Communication. Basically alternative ways to communicate.
+- **Unaided AAC** is based on non verbal communication without external tools (eg. body language, facial expressions, gestures and sign language).
+- **Aided AAC** rely on the use of an electronic or non-electronic tool and the person's body. Tools can range communication books and boards, to pen and paper, to electronic devices that produce computer-generated voices.
+
+### Challenges & Solutions for people with Speech Disabilities
+
+#### `[ICT]` May be unable to communicate with voice-based technology tools like virtual meetings
+- Provide text-based alternative solutions such as chat, email, and forms
+
+#### `[ICT]` May have another disability like visual impairment
+- Ensure that all digital content is compatible with several assistive technologies such as screen readers
+- Provide captions and transcripts for video and audio materials
+- Check that digital content is keyboard accessible
+- Present information in multiple formats to assist with information processing
+
+#### `[ARCHITECTURE]` May be a wheelchair user, or may have difficulty using hands or arms
+- Same solutions for motor disabilities
+
+#### `[GENERAL]` Difficulty with producing speech sounds
+- May use low tech AAC such as communication boards or gestures to supplement speech
+- May use high tech AAC such computer-generated voices to replace speech
+- Be patient and give people time to communicate thoughts; Ask for clarification, if necessary
