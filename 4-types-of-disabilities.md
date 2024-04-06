@@ -179,3 +179,28 @@ The **abilities and characteritics may vary** because this is a broad category.
 
 #### `[CONSUMER]` May be unable to turn pages of printed materials.
 - Consider providing printed materials in a digital format that may allow people to use their own assistive technologies;
+
+## Cognitive Disabilities
+
+### Description
+It is a very large spectrum which is hard to define as a whole but there are a few categories:
+- **Limited Comprehension** Some people don't understand complex ideas, have it difficult with methaphors or abstract language. Some may have great cognitive functioning in one area (remembering conversations) but have lower functioning in others (emotional awareness, ...).
+- **Low Tolerance for Cognitive Overload** too much input may cause some people to freeze or become frustrated. They need things to be simple and straightforward with not to many choices.
+- **Limited Problem-Solving Skills** Some people might not be able to solve problems and may even not attempt it. (for instance a captcha).
+- **Short Term Memory Loss** some people may lack the memory doing things in between one moment and the next.
+- **Attention Deficit** making it hard for them to focus on the task at hand, they may get lost in their own thoughts.
+
+Causes for these disabilities may vary, birth, development conditions at young age, traumatic injury, infections, chemical imbalance, ...
+
+### Challenges & Solutions for people with Cognitive Disabilities
+
+#### `[ICT]` May find complex designs and tasks in digital format overwhelming
+- Create simple, predictable, organized designs and simplify user interface components
+
+#### `[ICT]` May have difficulty solving technical problems or fixing errors
+- Ensure users are alerted to errors and provide clear solutions to fix errors
+
+#### `[GENERAL]` May have difficulty processing information, especially text-based information that uses complex language
+- Supplement text-based information with images and other visuals to reinforce understanding
+- Use simple, easy-to-understand language when presenting text-based information
+
