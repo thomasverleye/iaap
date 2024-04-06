@@ -97,3 +97,18 @@ There are several types of color blindness and it's a spectrum in how they may v
 
 #### `[GENERAL]` Certain color combinations can be difficult to distinguish
 - Materials can be designed in a way that does not depend on color as a way to convey information.
+
+## Deafblindness
+
+### Description
+For a description see Blindness and `<insert other disability description>`.
+
+Their only option in assitive technologies is **braille**. They mainly going to use the refreshable braille display in combination with a screen reader.
+
+### Challenges & Solutions for people with color blindness
+
+#### `[ICT]` Digital text cannot be seen
+- A screen reader can convert text to braille on a refreshable braille device, or "printed" in a braille embosser.
+
+#### `[ICT]` Audio & Video cannot be heard nor seen
+- A text transcript of the audio can be converted to refreshable braille by a screen reader, or "printed" in a braille embosser.
