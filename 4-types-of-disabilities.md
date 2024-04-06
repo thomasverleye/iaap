@@ -204,3 +204,40 @@ Causes for these disabilities may vary, birth, development conditions at young a
 - Supplement text-based information with images and other visuals to reinforce understanding
 - Use simple, easy-to-understand language when presenting text-based information
 
+## Dyslexia/Reading Disabilities
+Some people have a hard time reading text (especially with some people with cognitive disabilities). It can help to apply illustrations or images to the content.  
+People with dyslexia might have high functioning cognitivity at a conceptual level but struggle with encoding text.
+
+### Challenges & Solutions for people with Dyslexia/Reading Disabilities
+
+#### `[ICT]` Often perceive words as floating and not in a line
+- Can use a special font developed for Dyslexia which weights the letters down and makes similar figures appear differently.
+- May be granted additional time to complete tasks.
+
+#### `[ICT]` Often perceive words differently than others such as seeing `p b d q` as the same letter.
+- Can change the font, contrast or add an underline to text to keep words in line.
+- May be granted additional time to complete tasks.
+
+#### `[ICT]` Often require additional time to read and process content.
+- Can extend time outs and return to the same location on the page.
+- Can use a screen reader to get content in an auditory method to reinforce what is being seen.
+- Can use screen readers which highlight the word or phrase being read to assist with tracking.
+- Can use enhance visible focus indicators to keep track of their position on the page.
+- Can use special programs or dictionaries which present words with pictures.
+- May be granted additional time to complete tasks.
+
+#### `[ICT]` Often have the burden of deciphering content from the way it is presented.
+- May apply a custom style sheet.
+
+#### `[ICT]` May have difficulty solving problems presented through security features such as CAPTCHA.
+- Ability to change the type of problem presented.
+- Developer may use alternative methods.
+
+#### `[ICT]` May have difficulty processing content through visual means.
+- Can use a screen reader to get content in an auditory method to reinforce what is being seen.
+- May be granted additional time to complete tasks.
+
+#### `[ICT]` May have a hard time spelling words correctly
+- Can use a spelling and grammar checker.
+
+
