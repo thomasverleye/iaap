@@ -1,6 +1,7 @@
 # [Types of Disabilities](https://dequeuniversity.com/class/iaap-cpacc/types-of-disabilities/)
 
-> [!NOTE]Learning Goals of this Section
+> [!NOTE]
+> **Learning Goals of this Section**  
 > In learning the different types of disabilities, you should be able to demonstrate the following skills:
 > 1. Name the main categories of disabilities.
 > 2. Classify specific conditions under their relevant disability category or categories.
@@ -96,4 +97,3 @@ There are several types of color blindness and it's a spectrum in how they may v
 
 #### `[GENERAL]` Certain color combinations can be difficult to distinguish
 - Materials can be designed in a way that does not depend on color as a way to convey information.
-

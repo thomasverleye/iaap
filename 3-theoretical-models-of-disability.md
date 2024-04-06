@@ -1,6 +1,7 @@
 # [Theoretical Models of Disability](https://dequeuniversity.com/class/iaap-cpacc/models-of-disability/)
 
-> [!NOTE] Learning Goals of this Section
+> [!NOTE]
+> **Learning Goals of this Section**  
 > 1. Characterize and differentiate between theoretical models of disability, including the strengths and weaknesses of their underlying assumptions
 > 2. Identify the names, terminology, and basic concepts of prominent theoretical models of disability.
 > 3. Compare and contrast the underlying assumptions of the different models.
