@@ -14,3 +14,32 @@
 > - Relationship between smoking, obesitas, diabetes, heart diseases with disabilities;
 > - Formulate reasons for those trends;
 
+## Incidence and Prevalence
+Estimates for the percentage of people with a disability range from about 10% to 20%, **depending on the survey methodology, definition of the word "disability," and other factors**.
+
+
+This means that in a random group of 10 people worldwide, 1 or 2 of those people are likely to have a disability. That's a minority, but it's a rather **sizable minority**. Of the approximately 7 billion people on the planet, about 700 million to 1.4 billion have disabilities.
+
+We are also all **susceptible** to disabilities. An able-bodied person can acquire a disability through an illness or an accident.
+
+## Why Disability Statistics Are So Variable
+
+### Differences in How "Disability" is Defined
+Narrow definitions will result in smaller percentages of people reporting a disability. Broader definitions will result in larger percentages.
+
+### Differences in Data Collection Methods
+- The strategy of the survey can cause a wide variance in results:
+  - Some surveys rely on individuals to report their own disabilities;
+  - Others rely on observations or data collection activities by the people administering the survey;
+- The purpose of the data collection is can be important as well:
+  - If the person is eligible for government benefits;
+  - If the answer result in negative consequences or social stigma;
+- The wording of the questions on a survey also matters:
+  - Vague wording of questions like "Do you have a disability?";
+  - Specific questions will get more meaningful answers.
+
+### Political or Public Relations Biases
+Country organizations may be reluctant to report accurate numbers as it may look bad on their situation. (Countries unsupportive of gay rights sometimes do forge their numbers in gay poppulation, keeping that in mind what makes them report accurate numbers in people with disabilaties?).
+
+### Comparing Statistics Across Countries
+For all above reasons is hard to compare data accros countries. It's evenly hard to compare same country data from different types of surveys.
