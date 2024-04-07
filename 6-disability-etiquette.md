@@ -10,7 +10,7 @@
 1. Mention the person first;
 2. IF NECESSARY, mention the disability secondly;
 
-| ![Avoid/Inappropriate](https://i.ytimg.com/vi/wAbnNZDhYrA/maxresdefault.jpg) | ![Use/Appropriate](https://i.cbc.ca/1.3279853.1532811524!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_940/drake.jpg) |
+| ![Avoid/Inappropriate](https://ih1.redbubble.net/image.3804086740.5056/raf,360x360,075,t,fafafa:ca443f4786.jpg) | ![Use/Appropriate](https://pbs.twimg.com/media/E7jckZYWUAYRkwU.jpg) |
 |---|---|
 | The disabled, the handicapped | People with disabilities |
 | Cripple, physically handicapped or wheelchair bound | A person with a physical disability/impairment or wheelchair user |
