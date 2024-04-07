@@ -68,3 +68,14 @@ Consequences are people with disabilities may be **less qualified** to get a job
 People with disabilities as a group tend to be disproportionately represented among unemployed.  
 Workplace discrimination and inaccessible work environments often reduce the employment opportunities for people with disabilities.
 
+## Poverty and Disability
+
+### Disabilities are Expensive
+It goes without saying that disability can be expensive.
+- People who need a electrical wheelchair (2k - 30k) and might need assistance;
+- Support systems (assistive technologies plus human helpers) varies dramatically depending on the type of disability;
+
+### Disabilities Can Be Both the Cause and the Result of Poverty
+Large proportion of people with disabilities, and their families, live in or near poverty, especially in poorer countries.
+
+In the US, people with disabilities are twice more likely to live in poverty.
