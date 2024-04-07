@@ -52,3 +52,13 @@ Combinations often happen which makes it even more important to involve this pop
 **Countries with large aging populations will have more disabilities.** (Poverty and war may have an impact on this data and tip the scale more to younger people with disabilities).
 
 Looking into the future **digital savvy adults are aging and might become disabled** meaning that the market of **accessible digital technologies is expected to increase**.
+
+## Education Levels & Literacy
+People with disabilities tend to be less educated than the general population.  
+This has several causes:
+- In severe disabilities, traditional education through the school system is impossible.
+- The education system may not be able to handle students with disabilities.
+- There are other barriers that reduce the availability and/or quality of education.
+
+Consequences are people with disabilities may be **less qualified** to get a job in comparison to more educated abled people. Leading to  **vicious cycle of poverty**.
+
