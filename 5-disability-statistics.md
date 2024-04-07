@@ -43,3 +43,12 @@ Country organizations may be reluctant to report accurate numbers as it may look
 
 ### Comparing Statistics Across Countries
 For all above reasons is hard to compare data accros countries. It's evenly hard to compare same country data from different types of surveys.
+
+## Aging Populations
+Older people are more likely to have disabilities. (30% - 60%)  
+Reason is that it's part of the aging process: Lose of sight, hearing, mobility and/or cognition is more likely to devolve.  
+Combinations often happen which makes it even more important to involve this population group.
+
+**Countries with large aging populations will have more disabilities.** (Poverty and war may have an impact on this data and tip the scale more to younger people with disabilities).
+
+Looking into the future **digital savvy adults are aging and might become disabled** meaning that the market of **accessible digital technologies is expected to increase**.
