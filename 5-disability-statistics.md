@@ -62,3 +62,9 @@ This has several causes:
 
 Consequences are people with disabilities may be **less qualified** to get a job in comparison to more educated abled people. Leading to  **vicious cycle of poverty**.
 
+## Employment Rate
+
+### Disabilities (and Workplace Discrimination) are Linked to Unemployment
+People with disabilities as a group tend to be disproportionately represented among unemployed.  
+Workplace discrimination and inaccessible work environments often reduce the employment opportunities for people with disabilities.
+
