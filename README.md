@@ -9,3 +9,4 @@ In this repository I'll document my progress into studying for my CPACC exam. I 
 3. [Theoretical Models of Disability](3-theoretical-models-of-disability.md)
 4. [Types of Disabilities](4-types-of-disabilities.md)
 5. [Disability Statistics](5-disability-statistics.md)
+6. [Disability Etiquette](6-disability-etiquette.md)
