@@ -43,6 +43,14 @@ They may be trying out techniques, if you help a person without permission could
 **Say "Hello"** and ask how they are doing, as a neutral question. If they don't ask for any help this probably don't need any help.
 
 ## Service Animals
-Don't pet, feed, play, distract service animals. They may become less controllable which might become a problem and dangerous in some cases.
+**Don't pet, feed, play, distract service animals.** They may become less controllable which might become a problem and dangerous in some cases.
 
 Sidenote, just don't pet animals you don't know at all. Always ask a owner first if they can pet their animal. They can have issues and react in a less friendly as you may expect.
+
+## Assistive Technologies
+**Never touch, lean on, or pick up a person's assistive device.** It's part of the personal space of the person.
+
+## Everyone Is Different
+The ettiquettes discussed are the "preferred" but everyone has their own interpretation. Some people interpret "handicapped" offensive, other don't bother the term.
+
+**When in doubt, ask the person.**
