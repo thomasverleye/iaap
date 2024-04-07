@@ -34,3 +34,11 @@
 | Playing "guess who" games with people who are blind or visually impaired | Introduce yourself by name to a person who is blind |
 | Speaking to the friend or support worker of a person with a disability | when the conversation is directed at the person with a disability | Speak directly to the person who has the disability |
 
+## Helping People with Disabilities
+**Don't Assume People with Disabilities Need Help**, ask the person with a disability if they need any assistance.
+They may be trying out techniques, if you help a person without permission could startle them and throw them off.
+
+**Offer Help When it is Truly Needed**, sometimes, situations go without saying. (eg. a blind person drops something).
+
+**Say "Hello"** and ask how they are doing, as a neutral question. If they don't ask for any help this probably don't need any help.
+
