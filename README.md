@@ -11,3 +11,4 @@ In this repository I'll document my progress into studying for my CPACC exam. I 
 5. [Disability Statistics](5-disability-statistics.md)
 6. [Disability Etiquette](6-disability-etiquette.md)
 7. [Benefits of Accessible Design](7-benefits-of-accessible-design.md)
+8. [Web Accessibility Principles](8-web-accessibilty-principles.md)
