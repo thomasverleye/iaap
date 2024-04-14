@@ -15,3 +15,4 @@ In this repository I'll document my progress into studying for my CPACC exam. I 
 9. [Universal Design for the Web](9-universal-design-for-the-web.md)
 10. [Universal Design for the Physical World](10-universal-design-for-the-physical-world.md)
 11. [Universal Design for Learning](11-universal-design-for-learning.md)
+12. [Usability and Accessibility](12-usability-and-accessibility.md)
