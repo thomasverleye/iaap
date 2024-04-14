@@ -42,3 +42,30 @@ You can and need to make dynamic content interactable, through the use of **ARIA
 ### Make Sure Users Know What's on the Web Page
 Content can't be accessed if users don't know if it is there. You content needs to be availble for Sight, Sound and Touch.  
 **Digital text** — whether visible or hidden (using valid accessibility techniques) — is the **most universal method** of accomplishing the broadest perceivability.
+
+## Operable
+
+### Definition
+Operability is about making the input methods of web content functionally available to a wide range of input devices.
+
+### Not Everyone Uses a Computer Like You Do
+Not everyone can use a mouse or keyboard because of several possible disabilities.
+
+### Everything Has to Work
+All content that is interactive should be interactive for everyone, even people who cannot use a mouse and/or keyboard.
+
+### In, Within, Through, and Out
+You have to be able to navigate into web components, use the features within them, navigate through them, and navigate out of all of them, no matter what input device you're using.
+
+### Scripting for Device Independence
+When you write scripts on the web and overwrite behaviour of standard components OR create new custom ones you need to take all input devices into account.
+
+### Control the Focus
+When opening dialogs etc, make sure your focus moves to the correct spot, and when closing those kind of elements, return to the previous focus point.
+
+### Timing
+When providing lengthy forms or pages that might need a lot of time for users (even without disabilities). Ensure they have enough of time, even maybe preventing time limits. Prevent that sessions timeout and if needed, make sure you create an accessible notification for it.
+
+### Keyboards: The (almost) Universal Input Device
+A lot of users with disabilities use keyboards or devices that are based on how keyboards work. So it's quite often said that if you can **operate** the web content with a keyboard it's almost be operable for everyone. The mouse however is still also important though.
+
