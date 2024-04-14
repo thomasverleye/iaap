@@ -38,3 +38,11 @@ Require little to no physical effort to use so no person would be feeling fatigu
 #### Principle Seven: Size and Space for Approach and Use
 Sufficient space should be provided so that it allows anyone to use the features regardless of physical build or physical abilities.
 
+## Sidewalks
+| UD Principle | Examples of Principle |
+| ------------ | --------------------- |
+| Principle 1, Equitable Use | Sidewalks that are wheelchair accessible and have curb cuts that orient people who are blind, assist people with motor disabilities and people who walk with objects such as carts and strollers |
+| Principle 4, Perceptible Information | Detectable warnings built into curb cuts that warn people who are blind that they are approaching a street |
+| Principle 6, Low Physical Effort | Sidewalks that are smooth and absent of bumps and cracks |
+| Principle 7, Size and Space for Approach and Use | Width of sidewalk allows for use of assistive technologies (e.g., rollators, wheelchairs) |
+
