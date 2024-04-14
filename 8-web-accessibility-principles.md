@@ -110,3 +110,17 @@ When you need user input, provide:
 
 #### Provide Feedback with Confirmation and Error Messages
 Provide success and error messages.
+
+## Robust
+
+### Definition
+Robustness is about ensuring compatibility with a broad range of user agents, including assistive technologies.
+
+### Browser compatible
+Make sure your website is interpretable for all browsers.
+
+### Use Standard Markup
+You can increase robustness by using standard markup and validating it. This is no guarantee for better accessibility, but it will eliminate problems you might get in other user agents.
+
+### Use ARIA (or other means) to Indicate the Name, Role, and Value of Interactive Components
+Basically same text as operable. But also that there are a lot of rich elements that have their own role preceivable for users with screenreaders.
