@@ -89,7 +89,7 @@ Requirements include the following:
 - and a link to enforcement procedures must be provided.
 
 #### EU Directive 2019/882
-For the private sector, EU Directive 2019/882 opens in a new window applies. Various sectors are mentioned by name, including e-commerce, banking, e-books, and electronics. This standard must be transposed into national law by June 28, 2022. This legislation must then be applied from June 28, 2025. Directive 2019/882 does not directly refer to the European standard EN 301 549.
+For the private sector, EU Directive 2019/882 applies. Various sectors are mentioned by name, including e-commerce, banking, e-books, and electronics. This standard must be transposed into national law by June 28, 2022. This legislation must then be applied from June 28, 2025. Directive 2019/882 does not directly refer to the European standard EN 301 549.
 
 #### European Accessibility Act (EAA)
 The main goal of this Act is to create a common set of accessibility guidelines for EU member states and fix the diverging accessibility requirements.  
