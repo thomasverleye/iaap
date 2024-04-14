@@ -69,3 +69,44 @@ When providing lengthy forms or pages that might need a lot of time for users (e
 ### Keyboards: The (almost) Universal Input Device
 A lot of users with disabilities use keyboards or devices that are based on how keyboards work. So it's quite often said that if you can **operate** the web content with a keyboard it's almost be operable for everyone. The mouse however is still also important though.
 
+## Understandable
+
+### Definition
+Understandability is about making content and interfaces that people can comprehend.
+
+### Understandable content
+
+#### Specify the Language
+Use `lang="<language>"`.
+
+#### Simplify the Reading or Vocabulary level
+Keep in mind people with reading disorders.
+
+#### Limit or Avoid Terminology or Concepts that are Unfamiliar or Complex
+Some people with more generalized cognitive disabilities are unable to understand complex ideas and abstractions.
+
+#### Provide Supplemental Formats
+There are some people who cannot read at all, they need alternative content like video, audio, images, ...
+Providing content alternatives this extreme might be hard and ain't mandatory. BUT, providing these alternative not only benefits those people. It will also benefit for others as your content becomes easier to comprehend.
+
+### Understandable Interfaces and Interactivity
+
+#### Consistency and Predictability
+Make sure your navigation stays the same through all pages. Make sure your form and other controls work as they standarly work in their browser. And when creating a complete custom component with a new kind of interaction, which you need to avoid at all times, provide instructions so user can learn how to use it.
+
+### Assistance: Error Prevention and Correction
+
+#### Provide Instructions, Hints, and Contextual Help
+
+When you need user input, provide:
+- instructions on why you need it and what they should do;
+- fields with constraints need extra instructions;
+  - Required;
+  - Read-only or disabled;
+  - Data needs to be in certain format;
+  - Password strength requirements;
+  - Certain length of characters;
+  - ...
+
+#### Provide Feedback with Confirmation and Error Messages
+Provide success and error messages.
