@@ -152,3 +152,56 @@ In this section, you will learn about the different types of disabilities as wel
 ### [Multiple Disabilities](https://dequeuniversity.com/class/fundamentals/personas/multiple)
 - Mainly concider following all other accessibility standards so you can support these people as much as possible.
 
+## [Guidelines](https://dequeuniversity.com/class/fundamentals/guidelines/)
+We're gonna talk about WCAG, ATAG & WAI-ARIA.
+
+### [Web Content Accessibility Guidelines (WCAG)](https://dequeuniversity.com/class/fundamentals/guidelines/wcag)
+
+#### Overview of WCAG
+The [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/) published by the [World Wide Web Consortium (W3C)](http://www.w3.org/) in 2024 — are widely regarded internationally as the most authoritative source of web accessibility guidelines around the world.
+- Was a ISO Standard
+- Is Technology agnostic
+- Covers acros all web technologies
+
+#### Level A, AA, and AAA
+- Level A is the bare minimum
+- Level AA is often the standard as it is less of a burden to achieve for developers
+- Level AAA is often skipped but it is adviced to not ignore those rules completely
+Level AA is often also a legal requirement.
+
+#### The 4 Main Principles
+1. **Perceivable** Information and user interface components must be presentable to users in ways they can perceive. [Ensure content is accessible to people who are blind and/or deaf.]
+2. **Operable** User interface components and navigation must be operable. [Make sure all features are accessible by keyboard; not just by mouse.]
+3. **Understandable** Information and the operation of user interface must be understandable.
+4. **Robust** Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies.
+
+These principles form an acronym: **POUR**.
+
+#### The 13 Guidelines
+
+In these four principles there are 13 guidelines to follow:
+
+1. Perceivable
+  1.1 Text alternatives
+  1.2 Time-based media alternatives
+  1.3 Content needs to be able to be presented in different ways
+  1.4 Make it easier for users to see and hear all content
+2. Operable
+  2.1 Keyboard Accessible
+  2.2 Enough time to read or use content
+  2.3 Prevent seizures
+  2.4 Make content navigatable so they can find content and know where they are.
+  2.5 Make it operatable through various inputs (not only keyboard)
+3. Understandable
+  3.1 Make text content readable and understandable
+  3.2 Make web pages appear and operate in predictable ways
+  3.3 Help users avoid and correct mistakes
+4. Robust
+  4.1 Maximize compatibility with current and future user agents, including assistive technologies.
+
+#### Success Criteria and Conformance Levels
+Each guideline has at least one but often multiple success criteria rules. If you meet these you made your content accessible for people with disabilities.
+
+#### "Sufficient Techniques" and "Advisory Techniques"
+Each success criteria has additional documentation named "Sufficient Techniques" and "Advisory Techniques". If you meet the sufficient techniques you pass the success criteria and the advisory techniques are additional best practices but they are not considered to make you comply to the success criteria.
+
