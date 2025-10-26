@@ -205,3 +205,37 @@ Each guideline has at least one but often multiple success criteria rules. If yo
 #### "Sufficient Techniques" and "Advisory Techniques"
 Each success criteria has additional documentation named "Sufficient Techniques" and "Advisory Techniques". If you meet the sufficient techniques you pass the success criteria and the advisory techniques are additional best practices but they are not considered to make you comply to the success criteria.
 
+### [Authoring Tool Accessibility Guidelines (ATAG) 2.0](https://dequeuniversity.com/class/fundamentals/guidelines/atag)
+
+This is another W3C Guideline that focusses on authoring tools.
+
+The guidelines are built around two focus areas:
+
+1. Make the authoring tool user interface accessible
+2. Support the production of accessible content
+
+Many web sites and web applications are also authoring tools, so they are subject to the Authoring Tool Accessibility Guidelines. Any file storage or WYSIWYG editor is subject to ATAG.
+
+[The ATAG recommendations can be found here](https://www.w3.org/TR/ATAG20/)
+
+### [WAI-ARIA (Accessible Rich Internet Applications) 1.0](https://dequeuniversity.com/class/fundamentals/guidelines/aria)
+
+WAI-ARIA or just ARIA are accessibility features of HTML to make more robust and dynamic web applications.
+
+Some examples of such features are:
+- `<div role="navigation">` to add a designated role to a HTML element
+- `<div aria-haspopup="true">` to add the characteristics to popup
+
+#### ARIA Features
+ARIA is almost entirely for screen readers (and speech recognition users and some keyboard only users).  
+The markup is hidden and ARIA allows screen reader users to know what's happening visually on the screen.
+
+- If a link opens a popup window
+- If an object (like a folder icon) is expandable
+- If an object is currently expanded or collapsed
+- If something has changed or been updated on the page (via "live regions")
+- What type of object or widget it is, like a tab panel, a tab, ...
+
+ARIA is primarily to be used by seb developers because ARIA usually requires JS skills.
+
+[The ARIA Authoring practices can be found here](https://www.w3.org/WAI/ARIA/apg/)
